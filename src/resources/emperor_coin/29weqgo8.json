@@ -1,0 +1,70 @@
+{
+  "citations": {
+    "07823703": ["locales.citation_CMV"],
+    "d5yvbpay": ["locales.citation_HCCV"],
+    "rxq053y5": ["locales.citation_TCVN2"],
+    "gabpltxp": ["locales.citation_ANZDQ"],
+    "z9ga4u4o": ["locales.citation_CMVC"],
+    "9hnvv773": ["locales.citation_MADP"],
+    "c9wajv3w": ["locales.citation_ANMHDQTP"],
+    "9zom8amv": ["locales.citation_VN6"],
+    "1z25zkjb": ["locales.citation_ANMHDQYJ"],
+    "w9obh8x4": ["locales.citation_BTLSQG"]
+  },
+  "diameter": { "3j0g9vly": "50.85", "hfdf8rdg": "50.40", "98041qod": "51.00", "1h0sz57g": "", "o30k5dvm": "" },
+  "identifiers": {
+    "3j0g9vly": ["locales.acronym_HCCV", "192"],
+    "hfdf8rdg": ["locales.acronym_AME", "849"],
+    "98041qod": ["locales.acronym_BNF", "1801"],
+    "1h0sz57g": ["locales.acronym_ANZDQ", "94.1"],
+    "o30k5dvm": ["locales.acronym_ANMH", "45"]
+  },
+  "ids": { "07823703": "1801", "d5yvbpay": "192", "rxq053y5": "80", "gabpltxp": "94.1", "z9ga4u4o": "40.3", "9hnvv773": "849", "c9wajv3w": "45", "9zom8amv": "5", "1z25zkjb": "8-嗣-40", "w9obh8x4": "" },
+  "pages": { "07823703": "97", "d5yvbpay": "304", "rxq053y5": "131", "gabpltxp": "94", "z9ga4u4o": "392", "9hnvv773": "158", "c9wajv3w": "45", "9zom8amv": "14", "1z25zkjb": "128,215", "w9obh8x4": ""  },
+  "plates": { "07823703": "32" },
+  "references": {},
+  "specimens": {
+    "3j0g9vly": ["ho7mgv2o", "qb2ill5u"],
+    "hfdf8rdg": ["75xbw39i", "w0uauh50"],
+    "98041qod": ["xnzes4di", "9zedw3ky"],
+    "1h0sz57g": ["g1bag5rx", "gqn2bcn5"],
+    "o30k5dvm": ["9kkw7r7v", "8qye9zcn"]
+  },
+  "reference_locales": {
+    "07823703": "fr-FR",
+    "d5yvbpay": "en-GB",
+    "rxq053y5": "vi-VN",
+    "gabpltxp": "ja-JP",
+    "z9ga4u4o": "en-GB",
+    "9hnvv773": "fr-FR",
+    "c9wajv3w": "ja-JP",
+    "9zom8amv": "vi-VN",
+    "1z25zkjb": "ja-JP",
+    "w9obh8x4": "vi-VN"
+  },
+  "specimen_src" : {
+    "ho7mgv2o": "2898ffb1b6734c29bc8de33c682cc590-1.png",
+    "qb2ill5u": "2898ffb1b6734c29bc8de33c682cc590-2.png",
+    "75xbw39i": "860c54806dbb4fe19ae1a822bc6a6b85-1.png",
+    "w0uauh50": "860c54806dbb4fe19ae1a822bc6a6b85-2.png",
+    "xnzes4di": "d3c64398b0454bddb748640f30840170-1.png",
+    "9zedw3ky": "d3c64398b0454bddb748640f30840170-2.png",
+    "g1bag5rx": "1657443d531044a4bbc8c2e4cc622836-1.png",
+    "gqn2bcn5": "1657443d531044a4bbc8c2e4cc622836-2.png",
+    "9kkw7r7v": "fd152ddd9c2d4691b40006537e669f78-1.png",
+    "8qye9zcn": "fd152ddd9c2d4691b40006537e669f78-2.png"
+  },
+  "titles": {
+    "07823703": ["locales.title_CMV"],
+    "d5yvbpay": ["locales.title_HCCV"],
+    "rxq053y5": ["locales.title_TCVN2"],
+    "gabpltxp": ["locales.title_ANZDQ"],
+    "z9ga4u4o": ["locales.title_CMVC"],
+    "9hnvv773": ["locales.title_MADP"],
+    "c9wajv3w": ["locales.title_ANMHDQTP"],
+    "9zom8amv": ["locales.title_VN6"],
+    "1z25zkjb": ["locales.title_ANMHDQYJ"],
+    "w9obh8x4": ["locales.title_BTLSQG"]
+  },
+  "weight": { "3j0g9vly": "35.53", "hfdf8rdg": "34.11", "98041qod": "34.43", "1h0sz57g": "", "o30k5dvm": "" }
+}

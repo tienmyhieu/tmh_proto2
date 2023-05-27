@@ -1,0 +1,14 @@
+{
+  "book": "Book",
+  "coin": "Coin",
+  "language_en_gb": "English",
+  "language_fr_fr": "French",
+  "language_ja_jp": "Japanese",
+  "language_vi_vn": "Vietnamese",
+  "language_zh_cn": "Chinese (China)",
+  "language_zh_hk": "Chinese (Hong Kong)",
+  "language_zh_tw": "Chinese (Taiwan)",
+  "td_lcc": "Tu Duc Large Copper Coin",
+  "tt_lcc": "Thieu Tri Large Copper Coin",
+  "vietnam": "Việt Nam"
+}

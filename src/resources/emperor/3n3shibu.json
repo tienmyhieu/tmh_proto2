@@ -1,0 +1,10 @@
+{
+  "html": {
+    "description": "locales.td_lcc",
+    "keywords": ["locales.coin", "locales.vietnam", "locales.tu_duc"]
+  },
+  "titles": {
+    "3n3shibu": ["locales.tu_duc"],
+    "29weqgo8": ["locales.tu_duc", "locales.tbaddbab"]
+  }
+}

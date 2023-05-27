@@ -1,0 +1,11 @@
+[
+  { "uuid": "tienmyhieu2.com", "locale": "vi-VN", "native_name": "Tiếng Việt", "default": "1", "direction": "ltr" },
+  { "uuid": "en.tienmyhieu2.com", "locale": "en-GB", "native_name": "English", "default": "1", "direction": "ltr" },
+  { "uuid": "fr.tienmyhieu2.com", "locale": "fr-FR", "native_name": "Français", "default": "1", "direction": "ltr" },
+  { "uuid": "ja.tienmyhieu2.com", "locale": "ja-JP", "native_name": "日本語", "default": "1", "direction": "ltr" },
+  { "uuid": "vi.tienmyhieu2.com", "locale": "vi-VN", "native_name": "Tiếng Việt", "default": "0", "direction": "ltr" },
+  { "uuid": "www.tienmyhieu2.com", "locale": "vi-VN", "native_name": "Tiếng Việt", "default": "0", "direction": "ltr" },
+  { "uuid": "zh-cn.tienmyhieu2.com", "locale": "zh-CN", "native_name": "中文 中国", "default": "1", "direction": "ltr" },
+  { "uuid": "zh-hk.tienmyhieu2.com", "locale": "zh-HK", "native_name": "中文 香港", "default": "1", "direction": "ltr" },
+  { "uuid": "zh-tw.tienmyhieu2.com", "locale": "zh-TW", "native_name": "中文 臺灣", "default": "1", "direction": "ltr" }
+]

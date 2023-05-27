@@ -1,0 +1,12 @@
+{
+  "labels": {
+    "diameter": "locales.diameter",
+    "g": "locales.g",
+    "mm": "locales.mm",
+    "weight": "locales.weight"
+  },
+  "locales": ["common"],
+  "specimen_src" : {
+    "19128s3s": "35609f0ec63d40c9b0cca4f29cc089d0.png"
+  }
+}
